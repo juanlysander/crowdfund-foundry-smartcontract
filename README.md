@@ -1,7 +1,5 @@
 # Solidity Crowdfunding Project
 
-![Solidity Logo](solidity_logo.png)
-
 This repository contains a Solidity smart contract project focused on implementing a crowdfunding platform. The project was inspired by lessons taught by Patrick Collins, an expert in Solidity development and blockchain technologies.
 
 ## Introduction
