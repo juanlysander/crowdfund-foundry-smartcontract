@@ -1,4 +1,3 @@
-1. Proper README 
-2. Integration tests
-3. Programatic verification
-4. Push to Github
+#About
+This is the first project from Patrick Collins to learn Solidity with Foundry framework
+The project is about making a crowdfunding smart contract
